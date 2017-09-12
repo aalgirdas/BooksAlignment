@@ -5,4 +5,6 @@ In recent years, there have been several proposals to align bilingual corpus and
 
 This method is presented in our  research paper: "Sentence level alignment of digitized books parallel corpora" (currently it is under review).
 
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/algirdaslaukaitis/BooksAlignment/master/Alignments/TheCastleFranz%20Kafka_Iter9.htm
+
 
