@@ -5,11 +5,14 @@ In recent years, there have been several proposals to align bilingual corpus and
 
 This method is presented in our  research paper: "Sentence level alignment of digitized books parallel corpora" (currently it is under review).
 
-In the direcories EN_BOOKS and LT_BOOKS we have selected some books that are copyright free.
+At the current moment, we provide three sets of resources.
+In the direcories EN_BOOKS and LT_BOOKS we have selected some books that are copyright free. Anyone can try to align these books and compare the alignment results with the benchmark alignments presented in the directory Alignments.
 
-The alignment results are presented in the directory Alignments.
+The alignment results in the directory Alignments can be used as translation memory in computer-aided translation systems.
 You can download them on you computer or you can view them  in a browser with (htmlpreview.github.io).
-For example:
+
+The following URL address is an example how to view alignment files using (htmlpreview.github.io):
+
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/algirdaslaukaitis/BooksAlignment/master/Alignments/TheCastleFranz%20Kafka_Iter9.htm
 
 
